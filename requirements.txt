@@ -1,0 +1,4 @@
+fastapi>=0.110
+uvicorn>=0.29
+yfinance>=0.2.54
+tzdata>=2024.1
